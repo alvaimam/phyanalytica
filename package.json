@@ -27,7 +27,7 @@
 		"@react-aria/visually-hidden": "3.8.12",
 		"animate.css": "^4.1.1",
 		"clsx": "2.1.1",
-		"framer-motion": "~11.1.1",
+		"framer-motion": "^11.5.6",
 		"i18next": "^23.14.0",
 		"intl-messageformat": "^10.5.0",
 		"next": "14.2.4",
