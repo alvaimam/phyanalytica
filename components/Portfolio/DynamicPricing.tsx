@@ -82,7 +82,7 @@ const DynamicPricingArticle: React.FC = () => {
 
               <div className="space-y-4">
                 <div className="flex items-start">
-                  <FaDollarSign size={24} className="text-purple-500 mr-2" />
+                  <span className="mr-2 text-2xl text-purple-500">$</span>
                   <div>
                     <h4 className="font-bold">{t("data-analysis-title")}:</h4>
                     <p className="pl-4">{t("data-analysis-description")}</p>
